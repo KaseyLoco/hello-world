@@ -1,3 +1,4 @@
 # hello-world
 Tutorial
-Blarg Blark Stuff
+Removed stuff
+Mor Stuff
